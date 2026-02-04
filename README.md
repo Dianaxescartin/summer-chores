@@ -2,7 +2,7 @@
 Summer Chores
 # Description
 The project contains two JavaScript files where I practiced how to handle asynchronous operations with 
-* Callbacks as arguments
+* Callback functions as arguments
 * Chains of Promises with then() and catch()
 
 Someone needs to complete the next list of summer chores. There is a strict routine to complete each activity:
