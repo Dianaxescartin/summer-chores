@@ -1,9 +1,10 @@
 # Project Title
 Summer Chores
 # Description
-The project contains two JavaScript files where I practiced how to handle asynchronous operations with 
+The project contains three JavaScript files where I practiced how to handle asynchronous operations with:
 * Callback functions as arguments
 * Chains of Promises with then() and catch()
+* Async/Await keywords and try-catch block to to handle errors
 
 Someone needs to complete the next list of summer chores. There is a strict routine to complete each activity:
 
@@ -18,3 +19,4 @@ Since there are a lot of chores to do, the person naturally gets tired from comp
 Once the project was cloned, you need to open the terminal and type:
 * The command node callbackVersion.js to run the callbackVersion.js file and find out if the person completed all their tasks.
 * The command node PromiseVersion.js to run the PromiseVersion.js file and find out if the person completed all their tasks.
+* The command node asyncAwaitVersion.js to run the asyncAwaitVersion.js file and find out if the person completed all their tasks.
